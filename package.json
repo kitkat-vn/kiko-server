@@ -16,7 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "artillery": "^1.6.0-28",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.3.0",
     "eslint-loader": "^2.1.2",
